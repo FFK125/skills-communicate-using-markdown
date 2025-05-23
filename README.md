@@ -35,6 +35,10 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ### Example
 
+
+![image](https://github.com/user-attachments/assets/ee207bc3-6a41-42ee-adbe-016ec02c131d)
+
+
 ```md
 # This is an `<h1>` header, which is the largest
 
